@@ -209,3 +209,6 @@ __marimo__/
 
 # Ignore data files
 data/
+
+.DS_Store
+.rhistory
