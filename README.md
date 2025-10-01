@@ -9,7 +9,7 @@ This repository contains a comprehensive machine learning project focused on det
 
 The dataset used for this project is a synthetically generated financial dataset that combines transaction details, user demographics, card information, and merchant categories. Due to its size (~2 GB), it is not included in this repository.
 
-* **Download Link:** [Financial Transactions Dataset on Kaggle]([https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions](https://www.kaggle.com/code/pranavpadmannavar/financial-fraud-detection-using-xgboost/input))
+* **Download Link:** [Financial Transactions Dataset on Kaggle](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions](https://www.kaggle.com/code/pranavpadmannavar/financial-fraud-detection-using-xgboost/input))
 
 **Setup Instructions:**
 1.  Download the data from the link above.
